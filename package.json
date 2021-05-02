@@ -7,7 +7,7 @@
     "express": "^4.16.4"
   },
   "devDependencies": {
-    "nodemon": "^1.18.10"
+    "nodemon": ">=2.0.1"
   },
   "scripts": {
     "start": "npx nodemon index.js"
